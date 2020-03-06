@@ -10,9 +10,9 @@
     <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="https://use.fontawesome.com/c1cce69857.js">
     <script src="https://use.fontawesome.com/c1cce69857.js"></script>
-    
+
     <link rel="stylesheet" type="text/css" href="css/style.css">
 
-    <title>Hello, world!</title>
+    <title>DashBoard Design</title>
   </head>
   <body>

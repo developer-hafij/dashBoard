@@ -79,7 +79,7 @@
 			</div>
 			<!-- Third Card Item End -->
 
-			<!-- First Card Item Start -->
+			<!-- Fourth Card Item Start -->
 			<div class="items col-md-4">
 				<div class="card">
 					<div class="card-action">
@@ -107,9 +107,9 @@
 				  	</div>
 			  	</div>
 			</div>
-			<!-- First Card Item End -->
+			<!-- Fourth Card Item End -->
 
-			<!-- Second Card Item Start -->
+			<!-- Fifth Card Item Start -->
 			<div class="items col-md-4">
 				<div class="card">
 					<div class="card-action">
@@ -135,9 +135,9 @@
 				  	</div>
 			  	</div>
 			</div>
-			<!-- Second Card Item End -->
+			<!-- Fifth Card Item End -->
 
-			<!-- Third Card Item Start -->
+			<!-- Seventh Card Item Start -->
 			<div class="items col-md-4">
 				<div class="card">
 					<div class="card-action">
@@ -163,7 +163,7 @@
 				  	</div>
 			  	</div>
 			</div>
-			<!-- Third Card Item End -->
+			<!-- Seventh Card Item End -->
 
 
 
