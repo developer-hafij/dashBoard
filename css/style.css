@@ -1,6 +1,6 @@
 .dashborad{
 	padding: 80px 10px;
-	background-color: #eaeaea;
+	background-color: #dcdcdc;
 }
 
 .items{
@@ -86,17 +86,10 @@
     background: #0489da;
     color: #fff;
 }
-
-
 .fa-plus-circle:hover,
 .card-body h5:hover{
     color: #0489da;
 }
-
-
-
-
-
 .add-card {
     display: flex;
     flex-direction: column;
@@ -110,3 +103,28 @@
 .card-hover:hover{
 	border: 2px dashed #0489da;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+body {
+    background: #dcdcdc;
+}
+.drag-items ul{
+    list-style: none;    
+}
+.drag-items .card-items{
+    width: 32.33%;
+    float: left;
+    display: block;
+    margin: 0 auto;
+ }
