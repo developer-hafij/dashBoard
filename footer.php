@@ -10,10 +10,14 @@
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
     <script>
       $( function() {
-        /*$( "#draggable , #draggable, #draggable , #draggable, #draggable , #draggable" ).draggable();*/
-        $( "#sortable, #sortable,#sortable, #sortable,#sortable, #sortable" ).sortable();
-        $( "#sortable, #sortable, #sortable, #sortable" ).disableSelection();
+        $( "#sortable" ).sortable();
       } );
+
+      $( function() {
+	    $('input[id$=picker]').datepicker({
+	    dateFormat: 'd MM, y'
+		});
+	  } );
     </script>
     
 

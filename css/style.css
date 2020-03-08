@@ -1,8 +1,18 @@
-.dashborad{
+/* Date Formating Start */
+.select-date{
+    text-align: center;
+}
+.hasDatepicker {
+    padding: 10px 34px;
+    border-radius: 6px;
+    border: none;
+}
+/* Date Formating End */
+
+/*.dashborad{
 	padding: 80px 10px;
 	background-color: #dcdcdc;
-}
-
+}*/
 .items{
 	padding: 6px;
 	flex-direction: column;
@@ -104,18 +114,7 @@
 	border: 2px dashed #0489da;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
+/* Drag and Drop Items Start */
 body {
     background: #dcdcdc;
 }
@@ -128,3 +127,4 @@ body {
     display: block;
     margin: 0 auto;
  }
+ /* Drag and Drop Items End */

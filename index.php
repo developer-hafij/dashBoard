@@ -7,6 +7,15 @@
 </section>
 
 
+<section class="date-picker">
+	<div class="container">
+		<div class="select-date">
+			<strong><input type="text" id="picker"></strong>
+		</div>
+	</div>
+</section>
+
+
 <section class="dashborad">
 	<div class="drag-items">
 		<div class="container-fluid">
